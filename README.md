@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with toxic projects.
 - 📫 How to reach me? -work hard.
   
-  My bad let's do this once more...
+My bad, let's do this once more...
 
 <h1 align="center">Hi 👋, I'm Aditya Bharti</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cold-coffee-coder&label=Profile%20views&color=0e75b6&style=flat" alt="cold-coffee-coder" /> </p>
