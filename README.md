@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Aditya Bharti.
-- 👀 I’m interested in Python Snakes.
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate with toxic projects.
-- 📫 How to reach me? -work hard.
+- Hi, I’m Aditya Bharti.
+- I’m interested in Python Snakes.
+- I’m currently learning everything.
+- I’m looking to collaborate with toxic projects.
+- How to reach me? -work hard.
   
 My bad, let's do this once more...
 
