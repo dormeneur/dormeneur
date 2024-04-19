@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aditya Bharti</h1>
 
-- 🌱 I’m currently learning `C++`, `JavaScript` and `Git`.**
+- 🌱 I’m currently learning `C++`, `JavaScript` and `Git`.
 
 - 📫 How to reach me: `adityabharti1214@gmail.com`
 
