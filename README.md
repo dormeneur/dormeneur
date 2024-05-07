@@ -6,11 +6,12 @@
 
 ## I’m currently learning
 
-**Beginner**  `HTML` `CSS` `JavaScript`
+|     Level    |           Skills          |
+|:------------:|:-------------------------:|
+|   Beginner   | `HTML` `CSS` `JavaScript` |
+| Intermediate |      `C` `C++` `GIT`      |
+|   Advanced   |  `Python` `Calisthenics`  |
 
-**Intermediate** `Python` `C` `C++` `Git` 
-
-**Advanced** `Calisthenics`
 
 ## Get in touch
 **Email** `adityabharti1214@gmail.com`
