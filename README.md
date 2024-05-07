@@ -1,14 +1,14 @@
 <div align="center">
   
 # Hi, I'm Aditya Bharti
-`Android App Development` `Web Development` `Blockchain` `AI/ML` 
+`Android App Development` `Web Development` `FOSS` `Blockchain` `AI/ML` 
 
 
 ## I’m currently learning
 
 **Beginner**  `HTML` `CSS` `JavaScript`
 
-**Intermediate** `Python` `C` `C++` `Git`
+**Intermediate** `Python` `C` `C++` `Git` 
 
 **Advanced** `Calisthenics`
 
