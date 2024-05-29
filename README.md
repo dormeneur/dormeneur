@@ -8,7 +8,7 @@
 
 |     Level    |           Skills          |
 |:------------:|:-------------------------:|
-|   Beginner   | `HTML` `CSS` `JavaScript` |
+|   Beginner   | `Java` `HTML` `CSS` `JavaScript` |
 | Intermediate |      `C` `C++` `GIT`      |
 |   Advanced   |  `Python` `Calisthenics`  |
 
