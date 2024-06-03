@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi, I'm Aditya Bharti
-`Android App Development` `Web Development` `FOSS` `Blockchain` `AI/ML` 
+`Data Science` `AI/ML` `Android App Development` `Web Development` `FOSS` `Blockchain`
 
 
 ## I’m currently learning
