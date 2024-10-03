@@ -4,6 +4,8 @@
 `Data Science` `AI/ML` `Android App Development` `Web Development` `FOSS` `Blockchain`
 
 
+###### 🚩looking for contributors for a recent project "AI-Concierge"
+
 ## I’m currently learning
 
 |     Level    |           Skills          |
