@@ -10,9 +10,9 @@
 
 |     Level    |           Skills          |
 |:------------:|:-------------------------:|
-|   Beginner   | `HTML` `CSS` `JavaScript` |
-| Intermediate | `Java` `C` `C++` `GIT`      |
-|   Advanced   |  `Python` `Calisthenics`  |
+|   Beginner   | `JavaScript` `Docker` `Solidity` `Hardhat` |
+| Intermediate | `Python` `Java` `C` `C++` `HTML` `CSS` `GIT` |
+|   Advanced   | `Figma` `Flutter(Dart)` `Firebase` |
 
 
 ## Get in touch
