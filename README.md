@@ -25,7 +25,7 @@
 
 <a href="https://dev.to/adityabharti" target="blank" title="Dev"><img align="center" src="https://github.com/dormeneur/dormeneur/blob/main/dev%20logo.png" alt="Dev.to" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://medium.com/@aadityabhartii" target="blank" title="Medium"><img align="center" src="https://github.com/dormeneur/dormeneur/blob/main/medium%20logo.png" alt="Medium" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://x.com/workingpandas" target="blank" title="X.com"><img align="center" src="https://github.com/dormeneur/dormeneur/blob/main/X%20logo.png" alt="X.com" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://x.com/dormeneur" target="blank" title="X.com"><img align="center" src="https://github.com/dormeneur/dormeneur/blob/main/X%20logo.png" alt="X.com" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/aadityabhartii" target="blank" title="LinkedIn"><img align="center" src="https://github.com/dormeneur/dormeneur/blob/main/linkedin%20logo.png" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/aadityabhartii" target="blank" title="Instagram"><img align="center" src="https://github.com/dormeneur/dormeneur/blob/main/Instagram%20icon.png" alt="Instagram" height="40" width="40" /></a>
 
