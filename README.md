@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi, I'm Aditya Bharti
-`Data Science` `AI/ML` `Android App Development` `Web Development` `FOSS` `Blockchain`
+`Data Science` `AI/ML` `Android App Development` `Web Development` `FOSS` `Blockchain` `DevOps`
 
 
 ###### 🚩looking for contributors for a recent project "AI-Concierge"
