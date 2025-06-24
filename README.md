@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi, I'm Aditya Bharti
-`Data Science` `AI/ML` `Android App Development` `Web Development` `FOSS` `Blockchain` `DevOps`
+`Data Science` `RAG` `AI/ML` `Android App Development` `Web Development` `FOSS` `Blockchain` `DevOps`
 
 
 ###### 🚩 Looking for CTOs and Developers, reach out via email.
