@@ -4,7 +4,7 @@
 `Data Science` `AI/ML` `Android App Development` `Web Development` `FOSS` `Blockchain` `DevOps`
 
 
-###### 🚩looking for contributors for a recent project "AI-Concierge"
+###### 🚩 Looking for CTOs and Developers, reach out via email.
 
 ## I’m currently learning
 
