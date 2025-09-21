@@ -19,7 +19,7 @@
 
 **✉️ Email** `adityabharti1214@gmail.com`
 
-**🌐 Live Website** [dormeneur.github.io](https://dormeneur.github.io/)
+**🌐 Live Website** [aditya-bharti.vercel.app/](https://aditya-bharti.vercel.app/)
 
 
 
